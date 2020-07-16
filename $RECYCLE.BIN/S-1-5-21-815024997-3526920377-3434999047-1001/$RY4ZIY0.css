@@ -1,0 +1,28 @@
+
+/*set general horizontal menu  styles*/ 
+a{
+    height: 20px;
+    width:1200px;
+    background-color:white;
+    display: inline-block;
+  border: 2px;
+   
+   
+}
+ /*set general horizontal menu button styles*/ 
+ 
+ 
+ nav ul li {display:inline-block;} 
+ 
+ 
+ li.btn {width:115px; line-height:2; margin-bottom:3px; margin-right:5px;  
+ 
+ text-align :center;} 
+ 
+ 
+ /* set general access (anchor) styles */ 
+ 
+ 
+ li.btn a {display:inline-block; width:115px; color:white; font-family:arial; 
+ 
+ font-size:100%; font-weight:bold; text-decoration:none;

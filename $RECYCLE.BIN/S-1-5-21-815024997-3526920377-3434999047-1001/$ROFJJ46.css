@@ -1,0 +1,89 @@
+
+ 
+ /*set horizontal button menu*/ 
+ 
+ 
+ nav ul {float:right; width:1200px; height:40px; margin-left:100px;  « 
+ 
+ text-align:center; padding-left:0;list-style-type:none;} 
+ 
+ 
+ /*set general horizontal menu button styles*/ 
+ 
+ 
+ nav ul li {display:inline-block;} 
+ 
+ 
+ li.btn {width:115px; line-height:2; margin-bottom:3px; margin-right:5px;  « 
+ 
+ text-align :center;} 
+ 
+ 
+ /* set general access (anchor) styles */ 
+ 
+ 
+ li.btn a {display:inline-block; width:115px; color:white; font-family:arial;  « 
+ 
+ font-size:100%; font-weight:bold; text-decoration:none;} 
+ 
+ 
+ 
+ 
+ /* mouseout (default) */ 
+ li.btn a {background: #1A9CE0; border:4px outset #AABAFF;} 
+ /* mouseover */ 
+ li.btn a:hover {background:#0A4ADF; border:4px outset #8ABAFF;} 
+ /* mousedown */ 
+ li.btn a:active {background:#AECBFF; border:4px inset #AECBFF; }
+  /*set vertical button menu column*/ 
+ 
+ 
+ nav#vertical ul {float:left; width:150px; margin-left:10px; padding-left:0;  « 
+ 
+ list-style-type:none;} 
+ 
+ 
+ /*set general side button styles*/ 
+ 
+ 
+ li.vbtn {width:115px; line-height:20px; margin-bottom:3px; text-align:center;} 
+ 
+ 
+ /* set general anchor styles */ 
+ 
+ 
+ li.vbtn a {display:block; width:115px; color:white; font-family:arial;  « 
+ 
+ font-size:small; 
+ 
+ 
+ font-weight:bold; text-decoration:none;} 
+ 
+ 
+ /* mouseout (default) */ 
+ 
+ 
+ li.vbtn a {display:block; background: #559a55; border:4px outset #559a55;} 
+ 
+ 
+ /* mouseover */ 
+ 
+ 
+ li.vbtn a:hover { background:red; border:4px outset red;} 
+ 
+ 
+ /* mousedown */ 
+ 
+ 
+ li.vbtn a:active {background:maroon; border:4px inset maroon; }
+ h1{
+ 	text-align: center; background: red;
+ }
+ h2{
+ 	height: 35px; width: 450px; background: white solid; text-align: center;
+ }
+img{
+	float: right; width: 500px; height: 250px
+} 
+ 
+ 
